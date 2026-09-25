@@ -1,0 +1,17 @@
+[
+    {
+        "id": "obtainium",
+        "filename": "app-arm64-v8a-release.apk",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4",
+        "lastChecked": "2026-09-23T14:02:12Z",
+        "lastUpdated": "2026-09-23T14:02:12Z"
+    },
+
+    {
+        "id": "obtainium-emulation-pack-dual-screen",
+        "filename": "obtainium-emulation-pack-dual-screen-v7.16.0.json",
+        "hash": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "lastChecked": "2026-09-23T14:02:11Z",
+        "lastUpdated": "2026-09-23T14:02:11Z"
+    }
+]

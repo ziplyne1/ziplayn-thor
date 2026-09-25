@@ -4,6 +4,9 @@ import PackageDescription
 
 let package = Package(
     name: "Bifrost",
+    platforms: [
+        .macOS(.v13)
+    ],
     targets: [
         .executableTarget(
             name: "Bifrost",

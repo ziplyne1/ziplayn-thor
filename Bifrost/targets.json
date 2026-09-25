@@ -1,0 +1,15 @@
+[
+    {
+        "id": "obtainium",
+        "owner": "ImranR98",
+        "repo": "Obtainium",
+        "filepattern": "app-arm64-v8a-release.apk"
+    },
+
+    {
+        "id": "obtainium-emulation-pack-dual-screen",
+        "owner": "RJNY",
+        "repo": "Obtainium-Emulation-Pack",
+        "filepattern": "obtainium-emulation-pack-dual-screen-v\\d+\\.\\d+\\.\\d+\\.json"
+    }
+]
